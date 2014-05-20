@@ -1,0 +1,9 @@
+Package: com.irepo.liblockscreen
+Name: libLockScreen
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: william_vab <wvabrinskas@gmail.com>
+Author: william_vab <wvabrinskas@gmail.com>
+Section: Tweaks
