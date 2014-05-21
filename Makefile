@@ -10,5 +10,7 @@ include theos/makefiles/common.mk
 
 TWEAK_NAME = libLockScreen
 libLockScreen_FILES = Tweak.xm
+libLockScreen_INSTALL_PATH = /usr/lib/
+
 
 include $(THEOS_MAKE_PATH)/tweak.mk
